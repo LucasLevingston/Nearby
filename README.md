@@ -1,0 +1,1 @@
+Sistema mobile de recomendação de restaurantes. Desenvolvido com React Native, aplicação dos conceitos de Propriedades, Estados e Componentes,tipagem com Typescript, Expo Framework, interface com StyleSheet, roteamento por arquivos com Expo Router, consumo de API Node.js,Bottom Sheet, leitura de QRCode com câmera, exibição de mapa.
